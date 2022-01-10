@@ -16,7 +16,7 @@
 // @match    *://*.uxdesign.cc/*
 // @match    *://*.infosecwriteups.com/*
 // @match    *://*.uxplanet.org/*
-// @run-at        document-start
+// @run-at         document-start
 // ==/UserScript==
 
 location.replace(
