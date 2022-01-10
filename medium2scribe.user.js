@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            medium2scribe
 // @author          6gb
-// @version         2022.01.10.21
+// @version         2022.01.11
 // @downloadURL     https://raw.githubusercontent.com/6gb/u.js/main/medium2scribe.user.js
 // @description     Redirects medium based pages to scribe.rip. To add new sites, include its domain in a new @match below.
 // @match     *://*.medium.com/*
